@@ -1,4 +1,4 @@
-# Windows Telemetry Lab – Phase 1  
+# Windows Endpoint Telemetry
 ## Process Creation Logging (4688) + Sysmon Verification + Splunk Ingestion
 
 ### 🎯 Objective  
